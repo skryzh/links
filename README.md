@@ -2,6 +2,7 @@
 
 ## RSS
 https://feeds.feedburner.com/TheHackersNews
+https://blog.python.org/feeds/posts/default?alt=rss
 
 
 ## airticles
