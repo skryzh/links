@@ -1,4 +1,7 @@
 # links
+## Basics
+https://www.writethedocs.org/
+https://peps.python.org/
 
 ## RSS
 https://feeds.feedburner.com/TheHackersNews
