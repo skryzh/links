@@ -11,6 +11,21 @@
 - https://github.com/ossf/malicious-packages/tree/main/osv/malicious/pypi
 - https://github.com/eset/malware-ioc/blob/master/pypi_backdoor/README.adoc
 - https://github.com/PyCQA/bandit/
+- (education) https://startx.team/products/start-edu
+- ide
+  - https://www.ptsecurity.com/ru-ru/
+  - https://marketplace.visualstudio.com/items?itemName=Semgrep.semgrep
+- component analysis of libraries
+  - https://codescoring.ru/
+  - https://www.sonatype.com/products/sonatype-nexus-repository
+- dynamic analysis of libraries
+  - https://www.zaproxy.org/
+  - https://defectdojo.com/community
+- docker security
+  - https://www.kaspersky.ru/enterprise-security/container-security
+  - https://trivy.dev/latest/
+- https://acti.ru/
+- https://help.sonatype.com/en/sonatype-nexus-repository.html
 
 
 ## airticles
