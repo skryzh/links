@@ -26,6 +26,7 @@
   - https://trivy.dev/latest/
 - https://acti.ru/
 - https://help.sonatype.com/en/sonatype-nexus-repository.html
+- https://habr.com/ru/companies/pt/articles/796295/
 
 
 ## airticles
